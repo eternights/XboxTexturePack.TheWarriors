@@ -16,7 +16,7 @@ TBA
 
 # Features
 Two features that I can notice comparing textures between Xbox and PlayStation Portable.
-* (Almost) Every texture has four times the resolution.
+* (Almost) Every texture has twice the resolution.
 * Every texture has more color or saturation.
 
 # Tools
