@@ -1,3 +1,5 @@
+#### <p align="center">For texture port to PPSSPP, go to [ppsspp](https://github.com/Blakeline/XboxTexturePack.TheWarriors/tree/ppsspp) branch.</p>
+
 # XboxTexturePack.TheWarriors
 This texture pack includes textures from the Xbox platform release to PCSX2 (PS2 emulator) of *The Warriors*.
 
@@ -22,6 +24,7 @@ Two features that I can notice comparing textures between Xbox and PlayStation 2
 * Every texture has slightly more color or saturation.
 
 # Tools
+Tools used in the making of the port:
 * RenderDoc
 * WinMerge
 * Adobe Photoshop
