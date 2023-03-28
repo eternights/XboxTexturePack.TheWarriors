@@ -4,7 +4,7 @@
 This texture pack includes textures from the Xbox platform release to PCSX2 (PS2 emulator) of *The Warriors*.
 
 # Download
-Get to the [Releases](https://github.com/Blakeline/XboxTexturePack.TheWarriors/releases/tag/untagged-0c4c21953dce96fb7fbf) section for downloads.
+Get to the [Releases](https://github.com/Blakeline/XboxTexturePack.TheWarriors/releases/tag/release) section for downloads.
 
 # Installation
 ## 1. Requirements
