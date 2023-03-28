@@ -4,7 +4,7 @@
 This texture pack includes textures from the Xbox platform release to PCSX2 (PS2 emulator) of *The Warriors*.
 
 # Download
-release link
+Get to the [Releases](https://github.com/Blakeline/XboxTexturePack.TheWarriors/releases/tag/untagged-0c4c21953dce96fb7fbf) section for downloads.
 
 # Installation
 ## 1. Requirements
@@ -22,6 +22,11 @@ release link
 Two features that I can notice comparing textures between Xbox and PlayStation 2.
 * (Almost) Every texture has twice the resolution.
 * Every texture has slightly more color or saturation.
+
+# Progress
+add dropdown somehow
+add progress
+New Blood - Blackout
 
 # Tools
 Tools used in the making of the port:
