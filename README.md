@@ -1,3 +1,5 @@
+#### <p align="center">For texture port to PCSX2, go to [pcsx2](https://github.com/Blakeline/XboxTexturePack.TheWarriors/) branch.</p>
+
 # XboxTexturePack.TheWarriors
 This texture pack includes textures from the Xbox platform release to PPSSPP (PSP emulator) of *The Warriors*.
 
