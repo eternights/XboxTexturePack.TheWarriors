@@ -63,11 +63,11 @@ Two features that I can notice comparing textures between Xbox and PlayStation 2
   </tr>
   <tr>
     <td>Adios Amigo</td>
-    <td>-</td>
+    <td>Complete</td>
   </tr>
   <tr>
     <td>Encore</td>
-    <td>-</td>
+    <td>Complete</td>
   </tr>
   <tr>
     <td>Payin' the Cost</td>
