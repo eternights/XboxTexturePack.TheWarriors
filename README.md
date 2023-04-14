@@ -71,11 +71,11 @@ Two features that I can notice comparing textures between Xbox and PlayStation 2
   </tr>
   <tr>
     <td>Payin' the Cost</td>
-    <td>-</td>
+    <td>Complete</td>
   </tr>
   <tr>
     <td>Destroyed</td>
-    <td>-</td>
+    <td>Complete</td>
   </tr>
   <tr>
     <td>Boys in Blue</td>
