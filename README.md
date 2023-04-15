@@ -79,7 +79,7 @@ Two features that I can notice comparing textures between Xbox and PlayStation 2
   </tr>
   <tr>
     <td>Boys in Blue</td>
-    <td>-</td>
+    <td>Complete</td>
   </tr>
   <tr>
     <td>Set Up</td>
