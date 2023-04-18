@@ -83,11 +83,11 @@ Two features that I can notice comparing textures between Xbox and PlayStation 2
   </tr>
   <tr>
     <td>Set Up</td>
-    <td>-</td>
+    <td>Complete</td>
   </tr>
   <tr>
     <td>All-City</td>
-    <td>-</td>
+    <td>Complete</td>
   </tr>
   <tr>
     <td>Desperate Dudes</td>
@@ -115,11 +115,11 @@ Two features that I can notice comparing textures between Xbox and PlayStation 2
   </tr>
   <tr>
     <td>Roots</td>
-    <td>-</td>
+    <td>Complete</td>
   </tr>
   <tr>
     <td>The Best</td>
-    <td>-</td>
+    <td>Complete</td>
   </tr>
   <tr>
     <td>Heavy Muscle</td>
