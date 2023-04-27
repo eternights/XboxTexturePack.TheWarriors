@@ -123,7 +123,7 @@ Two features that I can notice comparing textures between Xbox and PlayStation 2
   </tr>
   <tr>
     <td>Heavy Muscle</td>
-    <td>-</td>
+    <td>Complete</td>
   </tr>
   <tr>
     <td>Scout's Honor</td>
