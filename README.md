@@ -91,11 +91,11 @@ Two features that I can notice comparing textures between Xbox and PlayStation 2
   </tr>
   <tr>
     <td>Desperate Dudes</td>
-    <td>-</td>
+    <td>Complete</td>
   </tr>
   <tr>
     <td>No Permits, No Parley</td>
-    <td>-</td>
+    <td>Complete</td>
   </tr>
   <tr>
     <td>Home Run</td>
