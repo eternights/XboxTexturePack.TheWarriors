@@ -99,19 +99,19 @@ Two features that I can notice comparing textures between Xbox and PlayStation 2
   </tr>
   <tr>
     <td>Home Run</td>
-    <td>-</td>
+    <td>Complete</td>
   </tr>
   <tr>
     <td>Friendly Faces</td>
-    <td>-</td>
+    <td>Complete</td>
   </tr>
   <tr>
     <td>Come out to Play</td>
-    <td>-</td>
+    <td>Complete</td>
   </tr>
   <tr>
     <td>Armies of the Night</td>
-    <td>-</td>
+    <td>Complete</td>
   </tr>
   <tr>
     <td>Roots</td>
