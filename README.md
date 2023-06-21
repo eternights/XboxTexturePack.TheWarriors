@@ -247,3 +247,11 @@ Tools used in the making of the port:
 * WinMerge
 * Adobe Photoshop
 * paint.net
+
+# Contributing
+You can help this project by:
+* Finding the missing textures locations.
+  * Go to the "missing" folder.
+  * Each folder has the level names, choose one and enter the folder.
+  * There will be images of missing textures<br>If you can find the location of the missing texture in the game (or even better, extract the texture themselves),<br>create an issue so I can be notified.
+* Find broken textures (such as broken rendering, etc.)
